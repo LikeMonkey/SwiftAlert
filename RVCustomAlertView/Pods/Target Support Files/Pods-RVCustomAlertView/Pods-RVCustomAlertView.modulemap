@@ -1,0 +1,6 @@
+module Pods_RVCustomAlertView {
+  umbrella header "Pods-RVCustomAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

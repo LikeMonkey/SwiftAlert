@@ -1,0 +1,3 @@
+target 'RVCustomAlertView' do
+pod 'SnapKit'
+end
